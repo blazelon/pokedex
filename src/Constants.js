@@ -1,0 +1,2 @@
+export const POKEMON_LOGO_URL = 'https://external-preview.redd.it/tQged7mKJ3cUpNMq5IMeceZvyKP3cTyHqhNmKEQ0Vv8.png?width=960&crop=smart&auto=webp&s=d6e9ec76d1f43982c41f5b4257b5fc3a2f9a6e32'
+export const POKEMON_IMAGE_BASE_URL = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'
